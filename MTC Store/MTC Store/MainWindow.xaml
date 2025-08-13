@@ -1,0 +1,43 @@
+﻿<Window x:Class="MTC_Store.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:MTC_Store"
+        Height="720" Width="1280" Background="Transparent" ResizeMode="NoResize" 
+        WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True">
+
+    <Border Background="#154D71" CornerRadius="50" BorderBrush="AntiqueWhite" Padding="20"
+            MouseDown="Border_MouseDown">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="800"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Welcome To MTC Store" HorizontalAlignment="Left" 
+                   Margin="26,139,0,0" VerticalAlignment="Top" Height="83" 
+                   Width="724" FontSize="60" Foreground="White" FontFamily="Segoe UI Black"/>
+            <Label Content="Getting Started" HorizontalAlignment="Left" 
+                Margin="197,249,0,0" VerticalAlignment="Top" Height="83" 
+                Width="382" FontSize="48" Foreground="White" FontFamily="Segoe UI Black"/>
+            <Label Content="This application functions to monitor store activity" HorizontalAlignment="Left" VerticalAlignment="Top" Height="52" 
+                Width="519" FontSize="24" Foreground="White" FontFamily="Segoe UI Light" Margin="151,410,0,0"/>
+            <Label Content="contact email yohanesridho70@gmail.com if there are any problems" HorizontalAlignment="Left" VerticalAlignment="Top" Height="52" 
+                Width="712" FontSize="24" Foreground="White" FontFamily="Segoe UI Light" Margin="40,462,0,0"/>
+            <Border>
+
+
+            </Border>
+            <Border Background="White" Margin="10,89,10,79" Grid.Column="1" CornerRadius="50">
+
+            </Border>
+            <Label Content="Login" Margin="170,95,170,523" FontSize="36" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <Label Content="Register" Margin="150,290,146,328" FontSize="36" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <Label Content="Username" Margin="32,165,296,478" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <Label Content="Password" Margin="32,220,303,423" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <TextBox TextWrapping="Wrap" Margin="154,177,86,483" Grid.Column="1"/>
+            <PasswordBox Grid.Column="1" HorizontalAlignment="Left" Margin="154,230,0,0" VerticalAlignment="Top" Width="200"/>
+
+        </Grid>
+    </Border>
+
+</Window>

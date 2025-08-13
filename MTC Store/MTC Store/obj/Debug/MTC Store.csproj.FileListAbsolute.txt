@@ -1,0 +1,16 @@
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\bin\Debug\MTC Store.exe.config
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\bin\Debug\MTC Store.exe
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\bin\Debug\MTC Store.pdb
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store.csproj.AssemblyReference.cache
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MainWindow.g.cs
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\App.g.cs
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store_MarkupCompile.cache
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store_MarkupCompile.lref
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MainWindow.baml
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store.g.resources
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC_Store.Properties.Resources.resources
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store.csproj.GenerateResource.cache
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store.csproj.CoreCompileInputs.cache
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store.exe
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store.pdb
+C:\Users\ridhosoru\Documents\Project\MTC Store\MTC Store\MTC Store\obj\Debug\MTC Store.exe.config
