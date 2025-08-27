@@ -24,21 +24,26 @@
             <Label Content="contact email yohanesridho70@gmail.com if there are any problems" HorizontalAlignment="Left" VerticalAlignment="Top" Height="52" 
                 Width="712" FontSize="24" Foreground="White" FontFamily="Segoe UI Light" Margin="40,462,0,0"/>
             <Border/>
-            <Border Background="White" Margin="10,89,10,79" Grid.Column="1" CornerRadius="50">
+            <Border Background="White" Margin="20,89,0,79" Grid.Column="1" CornerRadius="50">
 
             </Border>
-            <Label Content="Login" Margin="170,95,170,523" FontSize="36" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
-            <Label Content="Register" Margin="150,290,146,328" FontSize="36" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
-            <Label Content="Username" Margin="32,165,296,478" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
-            <Label Content="Password" Margin="32,220,303,423" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
-            <TextBox TextWrapping="Wrap" Margin="154,177,86,483" Grid.Column="1"/>
-            <PasswordBox Grid.Column="1" HorizontalAlignment="Left" Margin="154,230,0,0" VerticalAlignment="Top" Width="200"/>
-            <Label Content="Username" Margin="32,357,296,286" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
-            <Label Content="Password" Margin="32,399,296,244" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1" RenderTransformOrigin="0.795,1.784"/>
-            <Label Content="Email" Margin="32,441,296,202" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1" RenderTransformOrigin="0.795,1.784"/>
-            <Label Content="Verif" Margin="32,488,296,155" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1" RenderTransformOrigin="0.795,1.784"/>
-            <Button Grid.Column="1" Content="Login" HorizontalAlignment="Left" Margin="198,266,0,0" VerticalAlignment="Top" Height="24" Width="68"/>
-
+            <Label Content="Login" Margin="192,95,148,523" FontSize="36" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <Label Content="Register" Margin="178,308,118,310" FontSize="36" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <Label Content="Username" Margin="54,165,274,478" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <Label Content="Password" Margin="54,220,281,423" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <TextBox TextWrapping="Wrap" Margin="176,177,64,483" Grid.Column="1"/>
+            <PasswordBox Grid.Column="1" HorizontalAlignment="Left" Margin="176,230,0,0" VerticalAlignment="Top" Width="200"/>
+            <Label Content="Username" Margin="60,375,268,268" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1"/>
+            <Label Content="Password" Margin="60,417,268,226" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1" RenderTransformOrigin="0.795,1.784"/>
+            <Label Content="Email" Margin="60,459,268,184" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1" RenderTransformOrigin="0.795,1.784"/>
+            <Label Content="Verif" Margin="60,506,268,137" FontSize="22" FontFamily="Segoe UI Semibold" Grid.Column="1" RenderTransformOrigin="0.795,1.784"/>
+            <Button Grid.Column="1" Content="Login" HorizontalAlignment="Left" Margin="226,266,0,0" VerticalAlignment="Top" Height="24" Width="68"/>
+            <TextBox TextWrapping="Wrap" Margin="182,384,58,276" Grid.Column="1"/>
+            <PasswordBox Grid.Column="1" HorizontalAlignment="Left" Margin="182,427,0,0" VerticalAlignment="Top" Width="200"/>
+            <TextBox TextWrapping="Wrap" Margin="184,470,58,190" Grid.Column="1"/>
+            <TextBox TextWrapping="Wrap" Margin="184,516,118,144" Grid.Column="1"/>
+            <Button Grid.Column="1" Content="Verif" HorizontalAlignment="Left" Margin="334,513,0,0" VerticalAlignment="Top" Height="24" Width="48"/>
+            <Button x:Name="RegisterBtn" Grid.Column="1" Content="Register" HorizontalAlignment="Left" Margin="224,558,0,0" VerticalAlignment="Top" Height="24" Width="68" RenderTransformOrigin="-0.86,2.396"/>
         </Grid>
     </Border>
 
